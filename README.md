@@ -1,4 +1,11 @@
-﻿# Page Pulse
+﻿# Live Link -https://page-pulse-three-flax.vercel.app/
+
+
+# Page Pulse
+![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.109+-009688?style=flat&logo=fastapi&logoColor=white)
+![Build Status](https://github.com/tusharpal8884/Page-pulse-api/actions/workflows/ci.yml/badge.svg)
+
 
 Page Pulse is a FastAPI-based URL auditing service that fetches a webpage, extracts basic metadata, and returns a structured audit result. It includes request ID tracing, in-memory caching, rate limiting, and a simple web UI for testing the API.
 
@@ -46,7 +53,7 @@ page-pulse/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/tusharpal8884/Page-pulse.git>
 cd page-pulse
 ```
 
